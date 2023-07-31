@@ -46,6 +46,7 @@ pip install -r requirements.txt
 ├── README.md
 ├── app.py
 ├── final_trained_model.pkl
+├── requirements.txt
 ```
 
 ## Data Preprocessing
