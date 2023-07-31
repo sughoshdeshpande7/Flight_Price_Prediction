@@ -1,4 +1,4 @@
-# Flight Price Prediction: Project Overview
+# Flight Price Predictor: Project Overview
 ![ML Project](https://img.shields.io/badge/Project-Machine%20Learning-orange?logo=python)<br>
 * Built a model to predict flight prices depending on various user inputs and deployed it on flask
 * Trained 10 different models to get the best performing model and optimized it for even better results
